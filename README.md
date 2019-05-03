@@ -1,2 +1,2 @@
 # hello-world
-my first test repo
+This is me who prepares the best future. Optimistic me with joy and happy overcoming obstacles :);)! Youpi yey!
