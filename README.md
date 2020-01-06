@@ -1,2 +1,1 @@
-# hello-world
-This is me who prepares the best future. Optimistic me with joy and happy overcoming obstacles :);)! Youpi yey!
+https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews
